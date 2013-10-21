@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+ds105
+*.slides.html
+build/
+.lock*
+.waf*
